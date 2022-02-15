@@ -7,10 +7,7 @@ In this lab, we will be creating a clock that changes depending on the time that
 
 ## Getting Started
 
-1. Clone this repository using `git clone`
-2. `cd` into the project folder
-3. `npm install`
-4. `npm start`
+1. Clone this repository into codesandbox.io
 
 ## The Lab
 1. Using inline styling, set the font color of the hours to red
@@ -29,3 +26,5 @@ In this lab, we will be creating a clock that changes depending on the time that
 2. Have the background color become a DARKER shade of yellow from hour 0 to hour 12. Have the background color become a DARKER blue from the hour 12 to hour 24 (almost black by hour 24).
 3. Rotate the clock (in degrees) by the amount of seconds*6 that have passed.
 4. Add box-shadow to clock that is on the left before 12 and is on the right after 12.
+
+## Write a reflection about your work today and focus on the style props and inline styling that you used in this lab. 
